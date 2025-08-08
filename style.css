@@ -8,12 +8,13 @@ body{
 }
 img{
     border-radius: 400px;
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     margin-bottom: 18px;
 }
 .name{
     font-size: large;
+    font-family: "Times New Roman", Times, serif;
     color:hsl(0, 0%, 100%);
 }
 .state{
@@ -53,7 +54,7 @@ button{
     color: white;
     border-radius: 6px;
     border: transparent;
-    font-size: 10px;
+    font-size: 12px;
 }
 button:hover{
     color: black;
@@ -110,3 +111,4 @@ button:hover{
   }
   
  
+
