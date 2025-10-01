@@ -30,12 +30,12 @@ img{
    margin-bottom: 10px;
 }
 .container{
-    position: static;
     left: 0;
     right: 0;
     margin-left: auto;
     margin-right: auto;
     width: 280px;
+    height:auto;
     border-radius: 5px;
     background-color: hsl(0, 0%, 12%);
     padding: 20px;
@@ -48,7 +48,7 @@ a{
 }
 button{
     width: 200px;
-    height: 30px;
+    height: 40px;
     margin-top: 10px;
     background-color:hsl(0, 2%, 34%);
     color: white;
@@ -111,4 +111,5 @@ button:hover{
   }
   
  
+
 
